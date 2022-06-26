@@ -12,6 +12,20 @@ arr = [1,1,0,-1,-1]
 there are n=5 elements, two positive, two negative and one zero.
 Their ratios are 2/5 = 0.400000 , 2/5 = 0.400000 and 1/5 = 0.200000.
 Results are printed as:
+
+### Constraints
+0 < n <= 100
+-100 <= arr[i] <= 100
+
+Sample InPut
+```
+  STDIN           Function
+  -----           --------
+  6               arr[] size n = 6
+  -4 3 -9 0 4 1   arr = [-4, 3, -9, 0, 4, 1]
+```
+
+Sample OutPut
 ```   
    0.400000
    0.400000

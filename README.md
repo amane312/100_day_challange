@@ -3,9 +3,20 @@
 
 
 
-CodeForce
+### CodeForce
 
-HackerRank 
+### HackerRank 
+-  HackerRank new profile @maririnamane312
+ 1. [ ] Week 1
 
-Spoj.com 
+###  Spoj.com 
+
+
+### codecheff
+
+### codewars
+ - CodeWars  marin312
+ 1. [  ] day 1 
+
+
 
